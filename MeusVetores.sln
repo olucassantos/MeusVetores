@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeusVetores", "MeusVetores.csproj", "{A18E103D-CDD6-421D-8B1A-DF819B20E315}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAlunos", "MediaAlunos\MediaAlunos.csproj", "{18AA1061-FA33-4A70-87A3-210C4ABA4998}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A18E103D-CDD6-421D-8B1A-DF819B20E315}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A18E103D-CDD6-421D-8B1A-DF819B20E315}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A18E103D-CDD6-421D-8B1A-DF819B20E315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18AA1061-FA33-4A70-87A3-210C4ABA4998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AA1061-FA33-4A70-87A3-210C4ABA4998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AA1061-FA33-4A70-87A3-210C4ABA4998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AA1061-FA33-4A70-87A3-210C4ABA4998}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
